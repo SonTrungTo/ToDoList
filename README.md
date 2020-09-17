@@ -1,0 +1,4 @@
+## TO DO LIST: An app built in React!
+
+The app creates a list you want to do and check them as finished as
+you move on!
